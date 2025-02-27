@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "greenfield20",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

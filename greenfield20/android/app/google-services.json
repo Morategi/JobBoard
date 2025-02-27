@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18694681335",
+    "project_id": "greenfields-app",
+    "storage_bucket": "greenfields-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18694681335:android:0e5b0d95efd1ce1079d9f2",
+        "android_client_info": {
+          "package_name": "com.example.greenfield20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5THx3TVNkNhRkJFL_3j49Vday-sDv3AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
